@@ -14,7 +14,7 @@ I'm called **Kelvin Ronaldo**, I'm a Software Developer, currently I work with p
 
 I graduated IT Technician, focused on development by **SENAI**.
 
-**Technology**:floppy_disk: **Computers**:computer: **Video-games**:video_game: are what I like/study/do on my free time. I'm also interested on **Politics**:exclamation: and **Philosophy**:question: too, as well as pertinent, they are very interestings subjects that I like to consume everyday, and lately I've created the **Reading**:book: habit.
+**Technology**:floppy_disk: **Computers**:computer: **Video-games**:video_game: are what I like/study/do on my free time. I'm also interested on **Politics**:exclamation: and **Philosophy**:question:, as well as pertinent, they are very interestings subjects that I like to consume everyday, and lately I've created the **Reading**:book: habit.
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kelvinronaldo)](https://www.linkedin.com/in/kelvinronaldo "Kelvin Ronaldo no LinkedIn") [![GitHub Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KelvinRonaldo?tab=repositories)](https://github.com/KelvinRonaldo?tab=repositories "Repositórios de Kelvin Ronaldo no GitHub") [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kelvinrferreira)](https://www.instagram.com/kelvinrferreira "Kelvin Ronaldo no Instagram")
