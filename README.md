@@ -1,8 +1,6 @@
 
 
-### Olá, seja muito bem-vindo!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kelvinronaldo)](https://www.linkedin.com/in/kelvinronaldo "Kelvin Ronaldo no LinkedIn") [![GitHub Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/KelvinRonaldo?tab=repositories)](https://github.com/KelvinRonaldo?tab=repositories "Repositórios de Kelvin Ronaldo no GitHub") [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kelvinrferreira)](https://www.instagram.com/kelvinrferreira "Kelvin Ronaldo no Instagram")
-
+### Olá, seja muito bem-vindo!  
 Me chamo **Kelvin Ronaldo**, sou Desenvolvedor de Softwares, atualmente trabalho na área de meio de pagamentos na [**Paynet**](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/ "Paynet Captura de Transações e Sistemas LTDA"). No momento, atuo no desenvolvimento de aplicações usando as Linguagens **C** e **PHP** com o _framework_ **Laravel**, mas tenho conhecimento em outras tecnologias como **JavaScript, ReactJS, Java, Spring Boot, Git, MySQL** e outros.  
 
 Sou formado Técnico em Informática voltada para a área de desenvolvimento pelo **SENAI**.  
