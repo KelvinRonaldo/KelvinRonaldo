@@ -1,7 +1,7 @@
 
 
 ### Olá, seja muito bem-vindo!  
-Me chamo **Kelvin Ronaldo**, sou Desenvolvedor de Softwares, atualmente trabalho na área de meio de pagamentos na [**Paynet**](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/ "Paynet Captura de Transações e Sistemas LTDA"). No momento, atuo no desenvolvimento de aplicações usando as Linguagens **C** e **PHP** com o _framework_ **Laravel**, mas tenho conhecimento em outras tecnologias como **JavaScript, ReactJS, Java, Spring Boot, Git, MySQL** e outros.  
+Me chamo **Kelvin Ronaldo**, sou Desenvolvedor de Softwares, atualmente trabalho na área de meio de pagamentos na [**Paynet**](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/ "Paynet Captura de Transações e Sistemas LTDA"). No momento, atuo no desenvolvimento de aplicações usando as Linguagens **C** e **PHP**, mas tenho conhecimento em outras tecnologias como **JavaScript, ReactJS, Git, MySQL** e outros.  
 
 Sou formado Técnico em Informática voltada para a área de desenvolvimento pelo **SENAI**.  
 
@@ -10,7 +10,7 @@ Sou formado Técnico em Informática voltada para a área de desenvolvimento pel
 ---  
 ### Hello, you are very welcome!
 
-I'm called **Kelvin Ronaldo**, I'm a Software Developer, currently I work with payment methods at [**Paynet**](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/ "Paynet Captura de Transações e Sistemas LTDA"). Nowadays, I'm acting developing applications using **C** and **PHP**  with the **Laravel** _framework_, but I have knowledge in another technologies like **JavaScript, ReactJS, Java, Spring Boot, Git, MySQL** and so on.
+I'm called **Kelvin Ronaldo**, I'm a Software Developer, currently I work with payment methods at [**Paynet**](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/ "Paynet Captura de Transações e Sistemas LTDA"). Nowadays, I'm acting developing applications using **C** and **PHP**, but I have knowledge in another technologies like **JavaScript, ReactJS, Git, MySQL** and so on.
 
 I graduated IT Technician, focused on development by **SENAI**.
 
